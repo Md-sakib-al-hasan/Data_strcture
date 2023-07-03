@@ -1,0 +1,2 @@
+
+      newnode->next=tmp->next;
